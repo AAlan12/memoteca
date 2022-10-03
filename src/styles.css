@@ -23,6 +23,10 @@ h2 {
   text-align: center;
 }
 
+button{
+  cursor: pointer;
+}
+
 .header {
   margin: 1rem auto 2rem;
 }
